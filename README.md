@@ -42,5 +42,4 @@ Follow these steps to run the project on your local machine.
 #### **2. Clone the Repository**
 
 ```bash
-git clone [https://github.com/mohakVaish/AI-Verilog-Assistant.git](https://github.com/YOUR_USERNAME/AI-Verilog-Assistant.git)
-cd AI-Verilog-Assistant
+git clone [https://github.com/mohakVaish/AI-Verilog-Assistant.git]
